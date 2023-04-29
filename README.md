@@ -2,7 +2,7 @@
 
 _Autor: Juan Maniglia_
 
-## Descripción
+## Descripción:
 
 Este repositorio contiene materiales, ejercicios y recursos para el bootcamp de Data Science y Machine Learning en Python. El contenido está enfocado en cuatro áreas principales: aprendizaje supervisado, aprendizaje no supervisado, series temporales y deep learning. El bootcamp se basa en las bibliotecas de Python `scikit-learn`, `TensorFlow` y `PyTorch`.
 
