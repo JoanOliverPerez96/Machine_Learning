@@ -131,3 +131,4 @@ dmypy.json
 # Carpetas
 Prof/
 test/
+data/
